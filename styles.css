@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background: url("./fondodeperros.png");
+}
+
+.main {
+   background: #B77B3C;
+  width: 400px;
+  heigh: 175px;
+  margin: 100px auto;
+  position: relative;
+  padding: 30px;
+}
+
+#doberman {
+position: absolute;
+top: 120px;
+left: 25%;
+width: 240px;
+height: auto;
+
+}
+
+.badge {
+   width: 160px;
+   background: #5a3f11;
+   color: white;
+   padding: 5px 10px;
+   font-family: sans-serif;
+   font-weight: bold;
+   text-align: center;
+   position: absolute;
+   top: -15px;
+   left: 30%;
+ }
+
+.clock {
+  background: #CAA578;
+  text-align: center;
+  font-size: 55px;
+  height: 100px;
+  padding-top: 15px;
+  font-family: Orbitron;
+  border-radius: 4px;
+
+}

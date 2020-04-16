@@ -8,7 +8,7 @@
 
 
 body {
-  background: url("./fondodeperros.png");
+  background-image: url("../img/fondodeperros.png");
 }
 
 .main {
